@@ -3,7 +3,7 @@
 Failure-mode analysis of YOLOv8s under controlled low-light degradation, and twotargeted mitigations: **ICCC** (decision-level confidence calibration) and **CBRT** (representation-level curriculum training).
 
 > Research project, Faculty of Computer Science, HSE University.
-> Full report: [`report/coursework.pdf`](report/coursework.pdf).
+> Full report: [`coursework.pdf`](coursework.pdf).
 
 ## Overview
 
