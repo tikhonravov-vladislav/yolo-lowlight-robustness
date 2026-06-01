@@ -1,0 +1,39 @@
+{
+  "polynomial_degree": 2,
+  "coefficients": [
+    3.65430112959297,
+    -4.656726199375027,
+    2.4420383035491247
+  ],
+  "formula": "gamma = c[0]*I^2 + c[1]*I + c[2]",
+  "fit_quality": {
+    "MAE": 0.180019193179381,
+    "RMSE": 0.24039685884116047
+  },
+  "per_condition_stats": {
+    "normal": {
+      "gamma": 1.0,
+      "mean_intensity_avg": 0.4475571887508972,
+      "mean_intensity_std": 0.12266346420000329,
+      "n_samples": 1000
+    },
+    "mild": {
+      "gamma": 1.4,
+      "mean_intensity_avg": 0.27033791450866074,
+      "mean_intensity_std": 0.09177182384788554,
+      "n_samples": 1000
+    },
+    "medium": {
+      "gamma": 1.8,
+      "mean_intensity_avg": 0.16709479771997704,
+      "mean_intensity_std": 0.06493047285579612,
+      "n_samples": 1000
+    },
+    "severe": {
+      "gamma": 2.2,
+      "mean_intensity_avg": 0.10702999036471605,
+      "mean_intensity_std": 0.04470497871832673,
+      "n_samples": 1000
+    }
+  }
+}
